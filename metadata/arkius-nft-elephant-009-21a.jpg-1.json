@@ -1,0 +1,28 @@
+{
+  "image": "https://app.ardrive.io/#/file/c5b1c334-37ba-446d-b3b1-24ee2b43858c/view",
+  "external_url": "https://app.ardrive.io/#/file/c5b1c334-37ba-446d-b3b1-24ee2b43858c/view",
+  "description": "arkius-nft-elephant-009-21a.jpg",
+  "name": "arkius-nft-elephant-009-21a.jpg",
+  "attributes": [
+    {
+      "trait_type": "dataTxId",
+      "value": "78LJbBbpcpt75HG4nx2LhnJFpDAcUrMjQhESC_EFD2U"
+    },
+    {
+      "trait_type": "name",
+      "value": "arkius-nft-elephant-009-21a.jpg"
+    },
+    {
+      "trait_type": "entityIdPath",
+      "value": "/c814264e-82b3-4e73-b678-760b8fd3ecb4/c5b1c334-37ba-446d-b3b1-24ee2b43858c"
+    },
+    {
+      "trait_type": "dataContentType",
+      "value": "image/jpeg"
+    },
+    {
+      "trait_type": "unixTime",
+      "value": 1650662379
+    }
+  ]
+}
